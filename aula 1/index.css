@@ -1,0 +1,16 @@
+body {
+    background-color: aqua          ;
+
+}
+.box{
+    width: 100px;/*largura*/
+    height: 100px;/*altura*/
+    border: 3px dashed cornflowerblue;/*espessura, etilo, cor da borda*/
+}
+.row{
+    display: flex;/*habilita os recursos do flex*/
+    flex-direction: row; /*transforma o elemento em uma linha (horozontal)*/
+gap: 20px;
+}
+
+
