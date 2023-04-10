@@ -1,0 +1,47 @@
+/*
+element {
+    attr: valor;
+    attr: valor;
+    attr: valor;
+}
+*/
+
+body{
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+.material-symbols-outlined {
+    font-size: 100px;
+    color:black;
+}
+header{
+    background-color: rgb(233, 229, 223);
+    display: flex;/*habilita os recursos do flex*/
+    flex-direction: row; /*transforma o elemento em uma linha (horozontal)*/
+    justify-content:space-between;
+    align-items: center;
+    padding: 30px;
+    background-color:rgb(225, 229, 235);
+    padding: 30px;
+    box-shadow: 0px 0px 30px 2px rgb(203, 203, 228);
+}
+
+footer{
+    background-color: rgb(233, 229, 223);
+    display: flex;/*habilita os recursos do flex*/
+    flex-direction: row; /*transforma o elemento em uma linha (horozontal)*/
+    justify-content:center;
+    align-items: center;
+   background-color:rgb(225, 229, 235);
+    padding: 30px;
+    box-shadow: 0px 0px 30px 2px rgb(203, 203, 228);
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+.material-synbols-outlined {
+font-size: 36px;
+
+}
