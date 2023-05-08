@@ -1,19 +1,13 @@
-/*
-element {
-    attr: valor;
-    attr: valor;
-    attr: valor;
-}
-*/
-
-.material-symbols-outlined {
-    font-size: 100px;
-    color:black;
-}
-header{
-    display: flex;/*habilita os recursos do flex*/
-    flex-direction: row; /*transforma o elemento em uma linha (horozontal)*/
-justify-content:space-between;
+header .material-symbols-outlined {
+    font-size: 30px;
 }
 
-
+header h1 {
+    font-size: 36px;
+}
+#menu{
+    border-radius: 0 0 15px 0;
+}
+.escondido {
+    display: none;
+}
