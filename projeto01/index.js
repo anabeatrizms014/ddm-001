@@ -1,4 +1,4 @@
-function mostrarmenu(){
-    document. querySelector("#home");
-   menu.ClassList.toggle("escondido")
+function mostrarMenu(){
+    let menubar = document.querySelector("#menu");
+    menubar.classList.toggle("escondido")
 }
