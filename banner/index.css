@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+#cabecalho {
+    background-color: blueviolet(255, 255, 255, 255);
+}
+
+#menu {
+    color: white;
+}
