@@ -1,18 +1,29 @@
 body {
-    background-color: rgb(245, 239, 239);
+    color: black;
+    background-color: rgb(121, 113, 113);
 }
 
 #cabecalho {
-    background-color: blueviolet(255, 255, 255, 255);
+    background-color:rgb(126, 121, 121);
 }
 
 #menu {
-    color: rgb(245, 243, 243);
+    color: rgb(109, 103, 101);
     margin: 0;
 }
 #logo {
 
     width: 80px;
     margin: 0;
+}
+#letra {
+    margin: 15;
+}
+#app-footer{
+   color: black;
+ background-color: rgb(97, 90, 88);
+ border: 1px solid rgb(68, 62, 62);
+ box-shadow: 100px 100px;
+
 }
  
